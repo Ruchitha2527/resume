@@ -1,0 +1,6 @@
+.experience-item:hover, .project-item:hover {
+    background: #f4f4f4;
+    border-left: 5px solid #333;
+    transform: scale(1.02);
+    transition: all 0.3s ease;
+}
